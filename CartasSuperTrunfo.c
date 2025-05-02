@@ -36,7 +36,7 @@ int main() {
     printf("Digite o número de pontos turísticos: ");
     scanf(" %d", &pontosTuristicos1);
 
-    printf("\n"); // pular linha dos dados da carta 01 para carta 02
+    printf("\n"); // pular linha dos dados da carta 01 para carta 02.
 
     // Entrada de dados da Carta 2
     printf("Cadastro da Carta 2:\n");
